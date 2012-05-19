@@ -1,0 +1,9 @@
+com.qnx.android
+com.qnx.android.launcher
+com.qnx.android.net
+com.qnx.android.util
+com.qnx.service
+com.qnx.service.networking
+com.qnx.service.pps
+com.qnx.service.pps.networking
+com.qnx.service.pps.player
